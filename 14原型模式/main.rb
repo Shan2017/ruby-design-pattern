@@ -1,0 +1,1 @@
+puts 'prototype pattern'
